@@ -1,0 +1,25 @@
+# Chapter I Notes
+# Aug 11, 2022
+# Gr1mReap3r
+# JAVA
+
+ Chapter 1
+===========
+ - A computer is an electronic device that stores and processes data.
+ 
+ - A computer includes both hardware and software.
+        ■ Hardware - Comprises the visible, physical elements of the computer.
+        ■ Software - Provides the invisible instructions that control the hardware and make it perform specific tasks.
+ 
+ - A computer consists of the following major hardware components:
+        ■ A central processing unit (CPU)
+        ■ Memory (main memory)
+        ■ Storage devices (such as disks and CDs)
+        ■ Input devices (such as the mouse and keyboard)
+        ■ Output devices (such as monitors and printers)
+        ■ Communication devices (such as modems and network interface cards)
+
+ - A computer’s components are interconnected by a subsystem called a bus. You can think of a bus as a sort of system of roads running among the computer’s components; data and 
+   power travel along the bus from one part of the computer to another.
+
+ - 
