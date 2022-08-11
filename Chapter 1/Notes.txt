@@ -22,4 +22,55 @@
  - A computer’s components are interconnected by a subsystem called a bus. You can think of a bus as a sort of system of roads running among the computer’s components; data and 
    power travel along the bus from one part of the computer to another.
 
+ - A computer consists of a CPU, memory, storage devices, input devices, output devices, and communication devices.
+
+ - The central processing unit (CPU) is the computer’s brain. It retrieves instructions from memory and executes them. The CPU usually has two components: a control unit and an 
+   arithmetic/logic unit.
+        ■ The control unit controls and coordinates the actions of the other components.
+        ■ The arithmetic/logic unit performs numeric operations (addition, subtraction, multiplication, division) and logical operations (comparisons).
+
+ - A byte is composed of eight bits
+
+ - An encoding scheme is a set of rules that govern how a computer translates characters, numbers, and symbols into data the computer can actually work with.
+
+ - A computer’s storage capacity is measured in bytes and multiples of the byte, as follows:
+        ■ A kilobyte (KB) is about 1,000 bytes.
+        ■ A megabyte (MB) is about 1 million bytes.
+        ■ A gigabyte (GB) is about 1 billion bytes.
+        ■ A terabyte (TB) is about 1 trillion bytes
+
+ - A computer’s memory consists of an ordered sequence of bytes for storing programs as well as data that the program is working with.
+
+ - There are three main types of storage devices:
+        ■ Magnetic disk drives
+        ■ Optical disc drives (CD and DVD)
+        ■ USB flash drives
+
+ - Drives are devices for operating a medium, such as disks and CDs.
+
+ - THE KEYBOARD
+        ■ Function keys are located across the top of the keyboard and are prefaced with the letter F. Their functions depend on the software currently being used.   
+        ■ A modifier key is a special key (such as the Shift, Alt, and Ctrl keys) that modifies the normal action of another key when the two are pressed simultaneously.
+        ■ The numeric keypad, located on the right side of most keyboards, is a separate set of keys styled like a calculator to use for entering numbers quickly.
+        ■ Arrow keys, located between the main keypad and the numeric keypad, are used to move the mouse pointer up, down, left, and right on the screen in many kinds of programs.
+        ■ The Insert, Delete, Page Up, and Page Down keys are used in word processing and other programs for inserting text and objects, deleting text and objects, and moving up or down 
+          through a document one screen at a time.
+ - THE MOUSE
+        ■ A mouse is a pointing device. It is used to move a graphical pointer (usually in the shape of an arrow) called a cursor around the screen or to click on-screen objects (such as a button) to 
+          trigger them to perform an action.
+
+ - THE MONITOR
+        ■ The monitor displays information (text and graphics). The screen resolution and dot pitch determine the quality of the display.
+        ■ The screen resolution specifies the number of pixels in horizontal and vertical dimensions of the display device.
+        ■ Pixels (short for “picture elements”) are tiny dots that form an image on the screen.
+        ■ The dot pitch is the amount of space between pixels, measured in millimeters. The smaller the dot pitch, the sharper the display.
+
+ - COMMUNICATION DEVICES 
+        ■ A dial-up modem uses a phone line and can transfer data at a speed up to 56,000 bps (bits per second).
+        ■ A digital subscriber line (DSL) connection also uses a standard phone line, but it can transfer data 20 times faster than a standard dial-up modem.
+        ■ A cable modem uses the cable TV line maintained by the cable company and is generally faster than DSL.
+        ■ A network interface card (NIC) is a device that connects a computer to a local area network (LAN). LANs are commonly used in universities, businesses, and government agencies. A high-speed NIC called 1000BaseT 
+          can transfer data at 1,000 million bits per second (mbps).
+        ■ Wireless networking is now extremely popular in homes, businesses, and schools. Every laptop computer sold today is equipped with a wireless adapter that enables the computer to connect to a local area network and the Internet.
+
  - 
