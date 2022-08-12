@@ -1,6 +1,9 @@
+===============================================================================
+
 # Checkpoint 1 Questions and answers
 # Gr1mReap3r
 # Aug 11, 2022
+
 ===============================================================================
 1.1 What are hardware and software?
 
@@ -50,4 +53,108 @@
 
     A: Memory is information that needs to be accessed quickly while storage is information that doesnt need to be accessed on a daily basis only at the need of the user.
     
-================================================================================
+===============================================================================
+
+# Checkpoint 2 Questions and answers
+# Gr1mReap3r
+# Aug 12, 2022
+
+===============================================================================
+
+1.10 What language does the CPU understand?
+
+    A: Its machine language—a set of built-in primitive instructions.
+
+1.11 What is an assembly language?
+
+    A: Assembly language uses a short descriptive word, known as a nemonic, to represent each of the
+       machine-language instructions.
+
+1.12 What is an assembler?
+
+    A:  An assembler translates assembly-language instructions into machine code.
+
+
+1.13 What is a high-level programming language?
+
+    A: High-level languages are English-like and easy to  learn and use.
+
+1.14 What is a source program?
+
+    A: A program written in a high-level language.
+
+1.15 What is an interpreter?
+
+    A: An interpreter reads one statement from the source code, translates it to the machine code
+       or virtual machine code, and then executes it right away
+
+1.16 What is a compiler?
+
+    A: A compiler translates the entire source code into a machine-code file, and the machine-code file is then executed.
+
+1.17 What is the difference between an interpreted language and a compiled language?
+
+    A: (a) An interpreter translates and executes a program one statement at a time. 
+       (b) A compiler translates the entire source program into a machine-language file for execution.
+
+===============================================================================
+
+# Checkpoint 3 Questions and answers
+# Gr1mReap3r
+# Aug 12, 2022
+
+===============================================================================
+
+1.18 What is an operating system? List some popular operating systems.
+
+    A: ■ The operating system (OS) is the most important program that runs on a computer.
+         The OS manages and controls a computer’s activities.
+
+       ■ Windows, Mac, Linux/UNIX
+
+1.19 What are the major responsibilities of an operating system?
+
+    A: ■ Controlling and monitoring system activities
+       ■ Allocating and assigning system resources
+       ■ Scheduling operations
+
+1.20 What are multiprogramming, multithreading, and multiprocessing?
+
+    A: ■ Multiprogramming allows multiple programs to run simultaneously by sharing the same CPU. The CPU is much faster than the computer’s 
+         other components.
+       ■ Multithreading allows a single program to execute multiple tasks at the same time.
+       ■ Multiprocessing, or parallel processing, uses two or more processors together to perform subtasks concurrently and then combine solutions of 
+         the subtasks to obtain a solution for the entire task.
+
+===============================================================================
+
+# Checkpoint 4 Questions and answers
+# Gr1mReap3r
+# Aug 12, 2022
+
+===============================================================================
+
+1.24 What is the Java language specification?
+
+    A: a technical definition of the Java programming language’s syntax and semantics.
+
+1.25 What does JDK stand for?
+
+    A: Java Development Toolkit
+
+1.26 What does IDE stand for?
+
+    A: Integrated Development Environment
+
+1.27 Are tools like NetBeans and Eclipse different languages from Java, or are they dialects or extensions of Java?
+
+    A: Extentions of Java
+
+===============================================================================
+
+# Checkpoint 5 Questions and answers
+# Gr1mReap3r
+# Aug 12, 2022
+
+===============================================================================
+
