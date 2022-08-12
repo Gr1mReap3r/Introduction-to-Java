@@ -3,8 +3,8 @@
 # Gr1mReap3r
 # JAVA
 
- Chapter 1
-===========
+ What is a Computer?
+=====================
  - A computer is an electronic device that stores and processes data.
  
  - A computer includes both hardware and software.
@@ -73,4 +73,17 @@
           can transfer data at 1,000 million bits per second (mbps).
         ■ Wireless networking is now extremely popular in homes, businesses, and schools. Every laptop computer sold today is equipped with a wireless adapter that enables the computer to connect to a local area network and the Internet.
 
- - 
+ Programming Languages
+=======================
+ - A computer’s native language, which differs among different types of computers, is its
+   machine language—a set of built-in primitive instructions.
+
+ - A computer’s native language, which differs among different types of computers, is its
+   machine language—a set of built-in primitive instructions.
+
+ - Assembly language uses a short descriptive word, known as a mnemonic, to represent each of the
+   machine-language instructions.
+
+ - An assembler translates assembly-language instructions into machine code.
+
+
