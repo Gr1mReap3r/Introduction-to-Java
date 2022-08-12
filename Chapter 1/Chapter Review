@@ -4,38 +4,50 @@
 ===============================================================================
 1.1 What are hardware and software?
 
-    A:
+    A: ■ Hardware - Comprises the visible, physical elements of the computer.
+       ■ Software - Provides the invisible instructions that control the hardware and make it perform specific tasks.
 
 1.2 List five major hardware components of a computer.
 
-    A:
+    A: ■ A central processing unit (CPU)
+       ■ Memory (main memory)
+       ■ Storage devices (such as disks and CDs)
+       ■ Input devices (such as the mouse and keyboard)
+       ■ Output devices (such as monitors and printers)
+       ■ Communication devices (such as modems and network interface cards)
 
 1.3 What does the acronym “CPU” stand for?
 
-    A:
+    A: ■ Central Processing Unit
 
 1.4 What unit is used to measure CPU speed?
 
-    A:
+    A: ■ Bytes
 
 1.5 What is a bit? What is a byte?
 
-    A:
+    A: ■ If the switch is on, its value is 1. If the switch is off, its value is 0. These 0s and 1s are interpreted as digits in the binary system and   are called bits (binary digits).
+       
+       ■ A byte is composed of eight bits
 
 1.6 What is memory for? What does RAM stand for? Why is memory called RAM?
 
-    A:
+    A: ■ Memory stores data and program instructions in uniquely addressed memory locations.
+       
+       ■ Random-Access Memory (RAM)
+       
+       ■ Because it can be accessed faster than regular memory
 
 1.7 What unit is used to measure memory size?
 
-    A:
+    A: Hz
 
 1.8 What unit is used to measure disk size?
 
-    A:
+    A: Bytes
 
 1.9 What is the primary difference between memory and a storage device?
 
-    A:
+    A: Memory is information that needs to be accessed quickly while storage is information that doesnt need to be accessed on a daily basis only at the need of the user.
     
 ================================================================================
