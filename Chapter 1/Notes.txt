@@ -188,3 +188,66 @@ three editions:
 
  - Java SE is the foundation upon which all other Java technology is based. There are many versions of Java SE. The latest,
    Java SE 8.
+
+A Simple Java Program
+======================
+( Reference Welcome.java Program file in the package )
+======================
+
+ - Line 1 defines a class. Every Java program must have at least one class. Each class has a
+   name. By convention, class names start with an uppercase letter. In this example, the class
+   name is Welcome.
+
+ - Line 2 defines the main method. The program is executed from the main method. A class
+   may contain several methods. The main method is the entry point where the program begins
+   execution.
+
+ - A method is a construct that contains statements. The main method in this program contains
+   the System.out.println statement.
+
+ - String is a programming term meaning a sequence of characters. A string must be enclosed in double quotation marks.
+
+ - Every statement in Java ends with a semicolon (;), known as the statement terminator.
+
+ - Reserved words, or keywords, have a specific meaning to the compiler and cannot be used
+   for other purposes in the program.
+
+ - Lines ( 1 - 5 ) is a comment that documents what the program is and how it is constructed. Comments
+   help programmers to communicate and understand the program.
+
+ - In Java, comments are preceded by two slashes (//) on a line, called a line comment, or enclosed between /* and */ on one or several
+   lines, called a block comment or paragraph comment. When the compiler sees //, it ignores all text after // on the same line. When it sees /*, it scans for the next */ and ignores any text
+   between /* and */.
+
+ - A pair of curly braces in a program forms a block that groups the program’s components.
+
+=========================================================================================================
+TABLE 1.2 Special Characters
+=========================================================================================================
+Character               Name                                                Description
+=========================================================================================================
+{}             Opening and closing braces                 Denote a block to enclose statements.
+
+()             Opening and closing parentheses            Used with methods.
+
+[]             Opening and closing brackets               Denote an array.
+
+//             Double slashes                             Precede a comment line.
+
+" "            Opening and closing quotation marks        Enclose a string (i.e., sequence of characters).
+
+;              Semicolon                                  Mark the end of a statement.
+==========================================================================================================
+
+
+Creating, Compiling, and Executing a Java Program
+=================================================
+
+   - You save a Java program in a .java file and compile it into a .class file. The .class file
+     is executed by the Java Virtual Machine.
+   
+   - The bytecode is similar to machine instructions but is architecture neutral and can
+     run on any platform that has a Java Virtual Machine (JVM).
+
+   - (a) Java source code is translated into bytecode. 
+     (b) Java bytecode can be executed on any computer with a Java Virtual Machine.
