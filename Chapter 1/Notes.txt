@@ -251,3 +251,8 @@ Creating, Compiling, and Executing a Java Program
 
    - (a) Java source code is translated into bytecode. 
      (b) Java bytecode can be executed on any computer with a Java Virtual Machine.
+
+   - If you execute a class file that does not exist, a NoClassDefFoundError will occur.
+
+   - If you execute a class file that does not have a main method or you mistype the main
+     method (e.g., by typing Main instead of main), a NoSuchMethodError will occur.
