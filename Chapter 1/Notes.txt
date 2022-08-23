@@ -109,9 +109,9 @@
        
        C#                Pronounced “C Sharp.” It is a hybrid of Java and C++ and was developed by Microsoft.
        
-       COBOL             COmmon Business Oriented Language. Used for business applications.
+       COBOL             Common Business Oriented Language. Used for business applications.
        
-       FORTRAN           FORmula TRANslation. Popular for scientific and mathematical applications.
+       FORTRAN           Formula Translation. Popular for scientific and mathematical applications.
        
        Java              Developed by Sun Microsystems, now part of Oracle. It is widely used for developing platform-independent
                          Internet applications.
@@ -121,7 +121,7 @@
        
        Python            A simple general-purpose scripting language good for writing short programs.
        
-       Visual Basic      Visual Basic was developed by Microsoft and it enables the programmers to rapidly develop graphical user
+       Visual Basic      was developed by Microsoft, and it enables the programmers to rapidly develop graphical user
                          interfaces.
 
  - A program written in a high-level language is called a source program or source code.
@@ -254,5 +254,310 @@ Creating, Compiling, and Executing a Java Program
 
    - If you execute a class file that does not exist, a NoClassDefFoundError will occur.
 
-   - If you execute a class file that does not have a main method or you mistype the main
+   - If you execute a class file that does not have a main method, or you mistype the main
      method (e.g., by typing Main instead of main), a NoSuchMethodError will occur.
+
+
+Programming Style and Documentation
+===================================
+
+   - Programming style deals with what programs look like
+
+   - Documentation is the body of explanatory remarks and comments pertaining to a program
+
+   - To see an example of a javadoc HTML file, check out www.cs.armstrong.edu/liang/javadoc/
+     Exercise1.html. Its corresponding Java code is shown in www.cs.armstrong.edu/liang/javadoc/
+     Exercise1.java.
+
+   - A block is a group of statements surrounded by braces. There are two popular styles, next-line
+     style and end-of-line style.
+
+   - Next-Line style:
+
+                    public class Test
+                    {
+                        public static void main(String[] args)
+                        {
+                            System.out.println("Block Styles");
+                        }
+                    }
+
+   - End-Of-Line style:
+
+                    public class Test {
+                        public static void main(String[] args) {
+                            System.out.println("Block Styles");
+                        }
+                    }
+
+
+Programming Errors
+===================
+
+Programming errors can be categorized into three types: syntax errors, runtime
+errors, and logic errors.
+
+   - Syntax Errors
+            Errors that are detected by the compiler are called syntax errors or compile errors.
+
+            Syntax errors result from errors in code construction, such as mistyping a keyword, omitting some
+            necessary punctuation, or using an opening brace without a corresponding closing brace.
+
+   - Runtime Errors
+            Runtime errors are errors that cause a program to terminate abnormally.
+
+            They occur while a program is running if the environment detects an operation that is impossible to carry out.
+            Input mistakes typically cause runtime errors
+
+            An input error occurs when the program is waiting for the user to enter a value, but the user enters a value that the program cannot handle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -210,42 +210,66 @@ public class Test {
 1.33 What is the Java source filename extension, and what is the Java bytecode filename
 extension?
 
-    A:
+    A: Source Filename : .java
+       Bytecode Filename : .class
 
 1.34 What are the input and output of a Java compiler?
 
-    A:
+    A: Input : Java source code file
+       Output : Java class file
 
 1.35 What is the command to compile a Java program?
 
-    A:
+    A: Javac
 
 1.36 What is the command to run a Java program?
 
-    A:
+    A: Interpreter
 
 1.37 What is the JVM?
 
-    A:
+    A: Java Virtual Machine (JVM)
 
 1.38 Can Java run on any machine? What is needed to run Java on a computer?
 
-    A:
+    A: (a) Yes, you can run java on any machine
+       (b) Interpreter
+
 1.39 If a NoClassDefFoundError occurs when you run a program, what is the cause of
 the error?
 
-    A:
+    A: If you execute a class file that does not exist
 
 1.40 If a NoSuchMethodError occurs when you run a program, what is the cause of the
 error?
 
-    A:
+    A: If you execute a class file that does not have a main method or you mistype the main
+       method (e.g., by typing Main instead of main).
 
 ===============================================================================
 
 # Checkpoint 7 Questions and answers
 # Gr1mReap3r
-# Aug 19, 2022
+# Aug 23, 2022
+
+===============================================================================
+
+1.41 Reformat the following program according to the programming style and documentation guidelines.
+     Use the end-of-line brace style.
+
+                                    public class Test {
+                                        // Main method
+                                        public static void main(String[] args) {
+                                            /** Display output */
+                                            System.out.println("Welcome to Java");
+                                        }
+                                    }
+
+===============================================================================
+
+# Checkpoint 8 Questions and answers
+# Gr1mReap3r
+# Aug 23, 2022
 
 ===============================================================================
 
@@ -276,8 +300,8 @@ of error is this?
 1.47 Identify and fix the errors in the following code:
 
                 public class Welcome {
-                public void Main(String[] args) {
-                System.out.println('Welcome to Java!);
-                }
+                    public void Main(String[] args) {
+                        System.out.println('Welcome to Java!'); // add closing quotations
+                    }
                 }
 
